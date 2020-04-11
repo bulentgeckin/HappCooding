@@ -1,6 +1,7 @@
 package a.basic;
 
 public class D01_AllNumbersType {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		// this data types is called 'primitive data types' in java

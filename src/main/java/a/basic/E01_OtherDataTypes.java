@@ -1,6 +1,7 @@
 package a.basic;
 
 public class E01_OtherDataTypes {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		// character data type as primitive data type
