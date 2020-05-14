@@ -1,4 +1,4 @@
-package a.basic;
+package a.Basic;
 
 public class B01_IntegerNumbers {
 	public static void main(String[] args) {

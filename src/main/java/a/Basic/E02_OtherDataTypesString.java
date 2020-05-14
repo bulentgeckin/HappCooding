@@ -1,4 +1,4 @@
-package a.basic;
+package a.Basic;
 
 public class E02_OtherDataTypesString {
 	public static void main(String[] args) {

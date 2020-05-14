@@ -13,7 +13,7 @@ public class G01_FibonacciNumbers {
 		
 		ArrayList<Integer> fibs=new ArrayList<>();
 		
-		fibs.add(1);
+		fibs.add(0);
 		fibs.add(1);
 		
 		for (int i=2;i<max;i++) {

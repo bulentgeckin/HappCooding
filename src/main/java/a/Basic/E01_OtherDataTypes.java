@@ -1,4 +1,4 @@
-package a.basic;
+package a.Basic;
 
 public class E01_OtherDataTypes {
 	@SuppressWarnings("unused")

@@ -15,6 +15,8 @@ public class E01_PalidromeCheck {
 
 	public static void reverseString(String str) {
 
+		
+		
 		StringBuffer newStr = new StringBuffer(str.toLowerCase());
 		newStr = newStr.reverse();
 		System.out.print(str+" : "+newStr);

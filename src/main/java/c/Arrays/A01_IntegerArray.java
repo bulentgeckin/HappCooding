@@ -1,4 +1,4 @@
-package b.arrays;
+package c.Arrays;
 
 import java.util.Arrays;
 

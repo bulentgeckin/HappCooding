@@ -1,4 +1,4 @@
-package a.basic;
+package a.Basic;
 
 public class A01_HelloWorld {
 

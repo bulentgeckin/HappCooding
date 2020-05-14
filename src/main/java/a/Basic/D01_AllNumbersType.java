@@ -1,4 +1,4 @@
-package a.basic;
+package a.Basic;
 
 public class D01_AllNumbersType {
 	@SuppressWarnings("unused")
