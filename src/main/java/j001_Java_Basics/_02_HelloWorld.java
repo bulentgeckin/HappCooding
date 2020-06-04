@@ -1,0 +1,14 @@
+package j001_Java_Basics;
+
+public class _02_HelloWorld {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Hello");
+		System.out.print("Wolrd");
+		System.out.print("!");
+	
+	
+		
+	}
+}
