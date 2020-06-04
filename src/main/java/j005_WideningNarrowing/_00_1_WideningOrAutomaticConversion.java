@@ -1,4 +1,4 @@
-package a3.WideningNarrowing;
+package j005_WideningNarrowing;
 
 public class _00_1_WideningOrAutomaticConversion {
 

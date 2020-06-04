@@ -1,4 +1,4 @@
-package j15_Random_Numbers;
+package j015_Random_Numbers;
 
 import java.util.Random;
 

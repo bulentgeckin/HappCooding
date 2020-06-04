@@ -1,4 +1,4 @@
-package j16_MathClass;
+package j016_MathClass;
 
 public class math_max {
 
