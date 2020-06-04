@@ -1,4 +1,4 @@
-package J020_ScannerClass;
+package j020_ScannerClass;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
